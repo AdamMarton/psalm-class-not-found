@@ -1,0 +1,1 @@
+# psalm-class-not-found
